@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=nhonx&count_private=true&theme=vue&include_all_commits=true&card_width=500) 
-![Stats](https://leetcode.card.workers.dev/nhonx911?theme=default&font=source_code_pro&extension=null)
+[![Nhonx's GitHub stats](https://github-stats-extended.vercel.app/api?username=nhonx)](https://github.com/stats-organization/github-stats-extended)
